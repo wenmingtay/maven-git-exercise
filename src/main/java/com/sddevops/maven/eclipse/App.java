@@ -1,7 +1,7 @@
 package com.sddevops.maven.eclipse;
 
 /**
- * Hello world!
+ * Tasks Lists
  *
  */
 public class App 
